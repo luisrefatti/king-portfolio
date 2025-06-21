@@ -6,6 +6,10 @@ Este portfólio foi desenvolvido para a disciplina de Programação Web da Unive
 
 Aqui, compartilho não apenas os meus trabalhos, mas também a criatividade e o domínio das tecnologias utilizadas na construção do site. Meu objetivo é demonstrar minha capacidade de transformar ideias em soluções digitais eficientes e atraentes.
 
+## Acesso
+
+Acesse o website publicado via GitHub Pages através do seguinte endereço: https://luisrefatti.github.io/king-portfolio/
+
 ## Tecnologias Utilizadas
 
 - **HTML** — estruturação semântica das páginas
