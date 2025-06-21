@@ -1,6 +1,6 @@
 # Portfólio Pessoal — Luis Fernando Refatti Boff
 
-## Sobre o Projeto
+## Sobre
 
 Este portfólio foi desenvolvido para a disciplina de Programação Web da Universidade Regional Integrada do Alto Uruguai e das Missões (URI), com o propósito de apresentar minhas habilidades técnicas, projetos práticos e experiência profissional na área de Business Intelligence e desenvolvimento web.
 
@@ -10,14 +10,14 @@ Aqui, compartilho não apenas os meus trabalhos, mas também a criatividade e o 
 
 Acesse o website publicado via GitHub Pages através do seguinte endereço: https://luisrefatti.github.io/king-portfolio/
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - **HTML** — estruturação semântica das páginas
 - **CSS** — design responsivo e estilização visual
 - **JavaScript** — interatividade e manipulação dinâmica do conteúdo
 - **Google Sheets + Google Apps Script** — integração para coleta e armazenamento dos dados enviados via formulário
 
-## Estrutura do Projeto
+## Estrutura
 
 - `index` — página principal do portfólio
 - `styles` — arquivos CSS para o design e temas do site
